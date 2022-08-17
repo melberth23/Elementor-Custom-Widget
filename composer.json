@@ -48,7 +48,7 @@
     "wpackagist-plugin/elementor": "^3.7",
     "wpackagist-plugin/advanced-custom-fields": "^5.12",
     "wpackagist-theme/hello-elementor": "^2.6",
-    "melberth23/elementor-custom-widget-plugin": "^1.0"
+    "melberth23/elementor-custom-widget-plugin": "^1.0.4"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
