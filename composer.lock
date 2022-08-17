@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e41725a60953446b85ab7ee5186bfcfd",
+    "content-hash": "02ef897d8557a3b0d0365e4efb6ce8bf",
     "packages": [
         {
             "name": "composer/installers",
@@ -211,6 +211,42 @@
                 }
             ],
             "time": "2021-11-21T21:41:47+00:00"
+        },
+        {
+            "name": "melberth23/elementor-custom-widget-plugin",
+            "version": "1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/melberth23/elementor-custom-widget-plugin.git",
+                "reference": "dced54116b69fe693751b903b1f8e353726c6f68"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/melberth23/elementor-custom-widget-plugin/zipball/dced54116b69fe693751b903b1f8e353726c6f68",
+                "reference": "dced54116b69fe693751b903b1f8e353726c6f68",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "type": "wordpress-plugin",
+            "authors": [
+                {
+                    "name": "Melberth",
+                    "homepage": "#"
+                }
+            ],
+            "homepage": "https://github.com/melberth23/elementor-custom-widget-plugin",
+            "keywords": [
+                "elementor custom widget",
+                "plugin",
+                "wordpress"
+            ],
+            "support": {
+                "source": "https://github.com/melberth23/elementor-custom-widget-plugin/tree/1.0.3",
+                "issues": "https://github.com/melberth23/elementor-custom-widget-plugin/issues"
+            },
+            "time": "2022-08-17T05:44:11+00:00"
         },
         {
             "name": "oscarotero/env",
