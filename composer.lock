@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ea9c7236ba9a255d347e0677dd7a51dc",
+    "content-hash": "76134ef412911f7d4bc635cc68623f8c",
     "packages": [
         {
             "name": "composer/installers",
@@ -214,16 +214,16 @@
         },
         {
             "name": "melberth23/elementor-custom-widget-plugin",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/melberth23/elementor-custom-widget-plugin.git",
-                "reference": "eefde546fecd13d204d48e3771d846ce84ec80d7"
+                "reference": "5d0460b926301b805af2c89fd6eb9d1edd3fcf6d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/melberth23/elementor-custom-widget-plugin/zipball/eefde546fecd13d204d48e3771d846ce84ec80d7",
-                "reference": "eefde546fecd13d204d48e3771d846ce84ec80d7",
+                "url": "https://api.github.com/repos/melberth23/elementor-custom-widget-plugin/zipball/5d0460b926301b805af2c89fd6eb9d1edd3fcf6d",
+                "reference": "5d0460b926301b805af2c89fd6eb9d1edd3fcf6d",
                 "shasum": ""
             },
             "require": {
@@ -243,10 +243,10 @@
                 "wordpress"
             ],
             "support": {
-                "source": "https://github.com/melberth23/elementor-custom-widget-plugin/tree/1.0.4",
+                "source": "https://github.com/melberth23/elementor-custom-widget-plugin/tree/1.0.5",
                 "issues": "https://github.com/melberth23/elementor-custom-widget-plugin/issues"
             },
-            "time": "2022-08-17T06:14:43+00:00"
+            "time": "2022-08-17T11:08:44+00:00"
         },
         {
             "name": "oscarotero/env",
